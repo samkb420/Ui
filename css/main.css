@@ -116,9 +116,10 @@ main section#primary {
   }
 }
 
-main section#primary h1 {
-  font-size: 3em;
+main section#primary h2 {
+  font-size: 2em;
   margin-top: 10px;
+  font-weight: bold;
 }
 
 main section#primary p {
